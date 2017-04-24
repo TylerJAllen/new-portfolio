@@ -89,6 +89,26 @@ body {
   text-shadow: -4px 0 #F0163A;
 }
 
+.title-font:hover {
+  color: #B6BFBF;
+  text-shadow: -4px 0 #F0163A;
+}
+
+.title-font:active {
+  color: #B6BFBF;
+  text-shadow: -4px 0 #F0163A;
+}
+
+.title-font:visited {
+  color: #FFFFFF;
+  text-shadow: -4px 0 #F0163A;
+}
+
+.title-font:visited:hover {
+  color: #B6BFBF;
+  text-shadow: -4px 0 #F0163A;
+}
+
 .job-title {
   font-weight: bold;
   color: #FFFFFF;
